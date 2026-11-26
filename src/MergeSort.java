@@ -73,6 +73,9 @@ public class MergeSort {
         System.out.println("\n===== BUOC 2: CHAY THI NGHIEM =====");
         Benchmark.main(args);
 
+        System.out.println("\n===== BUOC 3: VE DO THI =====");
+        ChartPlotter.main(args);
+
         System.out.println("\n===== HOAN THANH THI NGHIEM =====");
     }
 }

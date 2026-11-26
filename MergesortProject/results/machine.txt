@@ -1,4 +1,0 @@
-OS: Linux 6.18.44-fc-v880 (amd64)
-Java: 21.0.13.1 - OpenJDK 64-Bit Server VM
-CPU logical cores: 1
-JVM max heap: 1979 MB

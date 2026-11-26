@@ -1,0 +1,4 @@
+OS: Windows 11 10.0 (amd64)
+Java: 25.0.2 - Java HotSpot(TM) 64-Bit Server VM
+CPU logical cores: 20
+JVM max heap: 3508 MB
